@@ -28,12 +28,12 @@
     --size4: .7em;
     --weight1: 400;
     --weight2: 900;
-    --font1: 'Staatliches', cursive;
-    --font2: 'Cormorant Infant', serif;
-    --font3: 'Nunito Sans', sans-serif;
-    --font4: 'Cappuccicons';
-    --font5: 'Cormorant Infant', serif;
-	--font6: 'Cormorant Infant', serif;
+    --font1: "Cormorant Unicase", serif;
+    --font2: "Cormorant Unicase", serif;
+    --font3: "Cormorant Unicase", serif;
+    --font4: "Cormorant Unicase", serif;
+    --font5: "Cormorant Unicase", serif;
+	--font6: "Cormorant Unicase", serif;
     --borders: 1px solid #fff;
     --border1: 10px;
     --gap-size: 16px;
