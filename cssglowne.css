@@ -31,7 +31,7 @@
     --font1: 'Staatliches', cursive;
     --font2: 'cloister_blacklight';
     --font3: 'Nunito Sans', sans-serif;
-    --font4: 'Cappuccicons';
+    --font4: "Material Icons";
     --font5: 'a_dripping_markerregular';
 	--font6: 'Cormorant Infant', serif;
     --borders: 1px solid #fff;
@@ -764,7 +764,7 @@ a:link,a:hover,a:visited,a:active {
     position: relative;
     top: -10px;
     left: -20px;
-    content: '\ea8b';
+    content: '\eb9b';
     font-family: var(--font4);
     font-size: 18px;
 }
@@ -2780,7 +2780,7 @@ a.fa-mention {
     transition:1s
 }
 .bouton-profil::after{
-    content:'\e9e2';
+    content:'\f526';
     font-family:var(--font4);
     margin-left:10px;
     font-size:6px;
@@ -3342,7 +3342,7 @@ hr {
 
 .SOB_post a::after {
     font-size: 12px;
-    content: '\ebca';
+    content: '\f5dd';
     font-family: var(--font4);
     margin-left: 5px;
 }
@@ -3433,7 +3433,7 @@ blockquote2{
     padding:0px 0px 0px 20px;
 }
 blockquote2::before{
-    content:'\ebfa';
+    content:'\e002';
     font-family:var(--font4);
     margin-right:7px;
     color:var(--color2)
@@ -3834,7 +3834,7 @@ usr{
     -webkit-text-fill-color: transparent;
 }
 .SOB_prof_g dt:before{
-    content:'\ea8d';
+    content:'\e90d';
     margin-right:5px;
     font-family:var(--font4);
     font-size:8px;
@@ -4027,7 +4027,7 @@ rnk img {
     margin-bottom: 5px;
 }
 .SOB_lastseen:before{
-    content:'\ea00';
+    content:'\ebba';
     font-family:var(--font4);
     font-style:normal;
     margin-right:5px;
@@ -4226,7 +4226,7 @@ tw2 {
 
 }
 tw2::before{
-    content:'\ecfd';
+    content:'\e002';
     font-family:var(--font4);
     color:var(--color3);
     margin-right:10px;
