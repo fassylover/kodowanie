@@ -718,7 +718,7 @@ a:link,a:hover,a:visited,a:active {
     align-items: center;
 }
 
-.cinnavbar i {
+.cinnavbar span {
     padding: 5px;
     background: -webkit-linear-gradient(50deg, var(--color1), var(--color2), var(--color3));
     color: #fff;
@@ -726,7 +726,7 @@ a:link,a:hover,a:visited,a:active {
     border-radius: 4px;
 }
 
-.cinnavbar i:hover {
+.cinnavbar span:hover {
     background: var(--bg3);
     color:var(--purewhite);
     border-radius: 4px;
