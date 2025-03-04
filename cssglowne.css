@@ -3342,7 +3342,7 @@ hr {
 
 .SOB_post a::after {
     font-size: 12px;
-    content: '\f5dd';
+    content: '\e317';
     font-family: var(--font4);
     margin-left: 5px;
 }
