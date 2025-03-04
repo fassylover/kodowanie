@@ -101,8 +101,8 @@ text-align:right;
 }
 
 dloc::before {
-    content: '\eb68';
-    font-family: 'cappuccicons';
+    content: '\e0d1';
+    font-family: "Material Icons";
     margin-right: 5px;
     font-style: normal;
 }
